@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: acquirer-strategy
+Implementation-Version: 0.0.1
+Archiver-Version: Plexus Archiver
+Built-By: User
+Implementation-Vendor-Id: com.example
+Created-By: Apache Maven 3.3.9
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://maven.apache.org
+Implementation-Vendor: Pivotal Software, Inc.
+
